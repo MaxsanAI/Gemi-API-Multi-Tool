@@ -1,0 +1,5 @@
+{
+  "name": "Gemi API Multi-Tool",
+  "description": "A comprehensive application showcasing the power of the Gemini API, including image and video generation, audio transcription, and more.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
